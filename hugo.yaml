@@ -1,0 +1,17 @@
+baseURL: /
+title: dad balloons
+theme: hugo-scroll
+languageCode: en-us
+defaultContentLanguage: en
+canonifyURLs: true
+enableRobotsTXT: true
+
+params:
+  title_guard: false
+  title: dad balloons
+  copyright: Copyright © 2024 dadballoons • All Rights Reserved
+  description: dad balloons
+  favicon: images/favicon.png
+  hidedesignbyline: true
+  meta:
+    keywords: dad, balloons
